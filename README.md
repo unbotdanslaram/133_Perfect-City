@@ -2,3 +2,4 @@
 **29.04** :
 - Début des recherches
 - Changement de sujet pour une autre pièce de la même artiste
+- Documentations & recherches
