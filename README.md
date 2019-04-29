@@ -1,5 +1,4 @@
-# 133_Borders
-
+# 133_Perfect City
 **29.04** :
 - Début des recherches
-- Changement du sujet de Borders à Perfect City
+- Changement de sujet pour une autre pièce de la même artiste
