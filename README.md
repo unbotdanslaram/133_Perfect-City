@@ -1,5 +1,8 @@
 # 133_Perfect City
 
+**02.04** :
+- Construction du plan
+- Début de rédaction, les grandes idées et la narration sont tracées
 
 **30.04** :
 - Approfondissement des recherches
