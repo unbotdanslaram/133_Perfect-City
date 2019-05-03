@@ -1,5 +1,9 @@
 # 133_Perfect City
 
+**03.05** :
+- Ré-arrangement du plan
+- Rédaction du script
+
 **02.04** :
 - Construction du plan
 - Début de rédaction, les grandes idées et la narration sont tracées
