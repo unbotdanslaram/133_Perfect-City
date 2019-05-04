@@ -1,5 +1,10 @@
 # 133_Perfect City
 
+
+**04.04** : 
+- Réorganisation du plan
+- Réécriture partielles de certaines parties
+
 **03.05** :
 - Ré-arrangement du plan
 - Rédaction du script
