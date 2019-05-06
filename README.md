@@ -1,7 +1,7 @@
 # 133_Perfect City
 
 
-**04.04** : 
+**04.05** : 
 - Réorganisation du plan
 - Réécriture partielles de certaines parties
 
@@ -9,7 +9,7 @@
 - Ré-arrangement du plan
 - Rédaction du script
 
-**02.04** :
+**02.05** :
 - Construction du plan
 - Début de rédaction, les grandes idées et la narration sont tracées
 
