@@ -1,5 +1,7 @@
 # 133_Perfect City
 
+**06.05** :
+- Réécriture totale du script
 
 **04.05** : 
 - Réorganisation du plan
