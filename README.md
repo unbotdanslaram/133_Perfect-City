@@ -1,5 +1,8 @@
 # 133_Perfect City
 
+**07.05** .
+- Finalisation de l'écriture (conclusion peut être à affiner)
+
 **06.05** :
 - Réécriture totale du script
 
